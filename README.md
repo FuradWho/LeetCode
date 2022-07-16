@@ -1,0 +1,2 @@
+# LeetCode
+study for leetcode
